@@ -1,0 +1,15 @@
+E:\Clinic_Management\Clinic_Management_DAL\bin\Debug\net10.0\Clinic_Management_DAL.deps.json
+E:\Clinic_Management\Clinic_Management_DAL\bin\Debug\net10.0\Clinic_Management_DAL.dll
+E:\Clinic_Management\Clinic_Management_DAL\bin\Debug\net10.0\Clinic_Management_DAL.pdb
+E:\Clinic_Management\Clinic_Management_DAL\bin\Debug\net10.0\Clinic_Management_Entities.dll
+E:\Clinic_Management\Clinic_Management_DAL\bin\Debug\net10.0\Clinic_Management_Entities.pdb
+E:\Clinic_Management\Clinic_Management_DAL\obj\Debug\net10.0\Clinic_Management_DAL.csproj.AssemblyReference.cache
+E:\Clinic_Management\Clinic_Management_DAL\obj\Debug\net10.0\Clinic_Management_DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clinic_Management\Clinic_Management_DAL\obj\Debug\net10.0\Clinic_Management_DAL.AssemblyInfoInputs.cache
+E:\Clinic_Management\Clinic_Management_DAL\obj\Debug\net10.0\Clinic_Management_DAL.AssemblyInfo.cs
+E:\Clinic_Management\Clinic_Management_DAL\obj\Debug\net10.0\Clinic_Management_DAL.csproj.CoreCompileInputs.cache
+E:\Clinic_Management\Clinic_Management_DAL\obj\Debug\net10.0\Clinic_M.ECA60553.Up2Date
+E:\Clinic_Management\Clinic_Management_DAL\obj\Debug\net10.0\Clinic_Management_DAL.dll
+E:\Clinic_Management\Clinic_Management_DAL\obj\Debug\net10.0\refint\Clinic_Management_DAL.dll
+E:\Clinic_Management\Clinic_Management_DAL\obj\Debug\net10.0\Clinic_Management_DAL.pdb
+E:\Clinic_Management\Clinic_Management_DAL\obj\Debug\net10.0\ref\Clinic_Management_DAL.dll

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="E:/Clinic_Management/Clinic_Management/Clinic_Management.csproj" />
+  <Project Path="E:/Clinic_Management/Clinic_Management_BLL/Clinic_Management_BLL.csproj" Id="f66531a7-94b7-45bf-b3f3-43876f3b04b1" />
+  <Project Path="E:/Clinic_Management/Clinic_Management_DAL/Clinic_Management_DAL.csproj" />
+  <Project Path="E:/Clinic_Management/Clinic_Management_Entities/Clinic_Management_Entities.csproj" Id="973a5f27-65c7-4e07-8f4c-9cb94f2528f2" />
+  <Project Path="E:/Clinic_Management/ConsoleTester/ConsoleTester.csproj" Id="e25d0753-3132-4673-8cb4-c35f025e67fe" />
+</Solution>

@@ -1,0 +1,11 @@
+E:\Clinic_Management\Clinic_Management_Entities\bin\Release\net10.0\Clinic_Management_Entities.deps.json
+E:\Clinic_Management\Clinic_Management_Entities\bin\Release\net10.0\Clinic_Management_Entities.dll
+E:\Clinic_Management\Clinic_Management_Entities\bin\Release\net10.0\Clinic_Management_Entities.pdb
+E:\Clinic_Management\Clinic_Management_Entities\obj\Release\net10.0\Clinic_Management_Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clinic_Management\Clinic_Management_Entities\obj\Release\net10.0\Clinic_Management_Entities.AssemblyInfoInputs.cache
+E:\Clinic_Management\Clinic_Management_Entities\obj\Release\net10.0\Clinic_Management_Entities.AssemblyInfo.cs
+E:\Clinic_Management\Clinic_Management_Entities\obj\Release\net10.0\Clinic_Management_Entities.csproj.CoreCompileInputs.cache
+E:\Clinic_Management\Clinic_Management_Entities\obj\Release\net10.0\Clinic_Management_Entities.dll
+E:\Clinic_Management\Clinic_Management_Entities\obj\Release\net10.0\refint\Clinic_Management_Entities.dll
+E:\Clinic_Management\Clinic_Management_Entities\obj\Release\net10.0\Clinic_Management_Entities.pdb
+E:\Clinic_Management\Clinic_Management_Entities\obj\Release\net10.0\ref\Clinic_Management_Entities.dll

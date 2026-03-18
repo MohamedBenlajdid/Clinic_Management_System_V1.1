@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Appointment\frmAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Appointment\frmAppointmentTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Appointment\frmCancelledAppointmentReason.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Appointment\ucAppointment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Department\frmDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Department\ucDepartment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Diagnostics\DiagnosticRequest\frmDiagnosticRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diagnostics\DiagnosticRequest\frmDiagnosticRequestItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diagnostics\DiagnosticRequest\frmDiagnosticRequestItemsTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diagnostics\DiagnosticRequest\frmDiagnosticRequestsTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diagnostics\DiagnosticRequest\ucDiagnosticRequest.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Diagnostics\DiagnosticRequest\ucDiagnosticRequestItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Diagnostics\DiagnosticResult\frmDiagnosticResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diagnostics\DiagnosticResult\frmDiagnosticResultsTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diagnostics\DiagnosticResult\ucDiagnosticResult.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Diagnostics\DiagnosticTest\frmDiagnosticTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diagnostics\DiagnosticTest\frmDiagnosticTestFinder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diagnostics\DiagnosticTest\ucDiagnosticTest.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Diagnostics\DiagnosticTest\ucDiagnosticTestFinder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DoctorDayOverride\frmDoctorDayOverride.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorDayOverride\frmDoctorDayOverrideFinder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorDayOverride\ucDoctorDayOverride.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DoctorDayOverride\ucDoctorDayOverrideFinder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DoctorOverrideSession\frmDoctorOverrideSession.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorOverrideSession\frmDoctorOverrideSessionFinder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorOverrideSession\ucDoctorOverrideSession.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DoctorOverrideSession\ucDoctorOverrideSessionFinder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Doctors\frmDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Doctors\frmDoctorFinder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Doctors\ucDoctor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Doctors\ucDoctorFinder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Doctors\ucDoctorSelecter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Invoices\frmInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Invoices\frmInvoiceItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Invoices\ucInvoice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Invoices\ucInvoiceItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainForm\AppointmentProcess\frmAppointmentProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm\DiagnosticResultsPrecess\frmDiagnosticsProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm\ManageRolesUsersPermissions\frmManageRolesUsersPermissions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm\ManageSystemMembers\frmManageSystemMemebers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm\Scheduling Management\frmSchedulingManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MedicalCertificate\frmMedicalCertificate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MedicalCertificate\ucMedicalCertificate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MedicalRecord\frmMedicalRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MedicalRecord\frmMedicalRecordFinder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MedicalRecord\ucMedicalRecord.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MedicalRecord\ucMedicalRecordFinder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Medicaments\frmMedicament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medicaments\frmMedicamentFinder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medicaments\ucMedicament.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Medicaments\ucMedicamentFinder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Patients\frmPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Patients\frmPatientFinder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Patients\ucPatient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Patients\ucPatientFinder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Payment\frmPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Payment\ucPayment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Permission\frmPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Permission\frmPermissionFinder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Permission\ucPermission.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Permission\ucPermissionFinder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Permission\ucPermissionsTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Person\frmPersonFinder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Person\ucPersonFinder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Prescriptions\frmPrescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Prescriptions\frmPrescriptionFinder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Prescriptions\frmPrescriptionItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Prescriptions\frmPrescriptionItemFinder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Prescriptions\ucPrescription.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Prescriptions\ucPrescriptionFinder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Prescriptions\ucPrescriptionItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Prescriptions\ucPrescriptionItemFinder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Roles\frmRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Roles\frmRoleFinder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Roles\frmRolePermissions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Roles\ucRole.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Roles\ucRoleDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Roles\ucRoleFinder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Schedule\frmDoctorSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Schedule\frmDoctorScheduleFinder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Schedule\ucDoctorSchedule.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Schedule\ucDoctorScheduleFinder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Specialities\frmSpeciality.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Specialities\ucSpeciality.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UcHelpers\EntityControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Person\frmPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Person\ucPerson.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UcHelpers\ucFinderBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Users\frmCreateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmUserFinder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmUserPermissionsOverride.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\ucUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Users\ucUserDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Users\ucUserFinder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

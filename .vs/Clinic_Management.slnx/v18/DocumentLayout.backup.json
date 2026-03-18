@@ -1,0 +1,477 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Clinic_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB54951-B351-31EC-F40F-9BF6EE3E0282}|Clinic_Management_DAL\\Clinic_Management_DAL.csproj|e:\\clinic_management\\clinic_management_dal\\clsdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB54951-B351-31EC-F40F-9BF6EE3E0282}|Clinic_Management_DAL\\Clinic_Management_DAL.csproj|solutionrelative:clinic_management_dal\\clsdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|E:\\Clinic_Management\\clinic_management\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|e:\\clinic_management\\clinic_management\\diagnostics\\diagnosticresult\\frmdiagnosticresultstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\diagnostics\\diagnosticresult\\frmdiagnosticresultstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|E:\\Clinic_Management\\clinic_management\\diagnostics\\diagnosticresult\\frmdiagnosticresultstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\diagnostics\\diagnosticresult\\frmdiagnosticresultstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|e:\\clinic_management\\clinic_management\\diagnostics\\diagnosticrequest\\frmdiagnosticrequeststable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\diagnostics\\diagnosticrequest\\frmdiagnosticrequeststable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|E:\\Clinic_Management\\clinic_management\\diagnostics\\diagnosticrequest\\frmdiagnosticrequeststable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\diagnostics\\diagnosticrequest\\frmdiagnosticrequeststable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|e:\\clinic_management\\clinic_management\\mainform\\diagnosticresultsprecess\\frmdiagnosticsprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\mainform\\diagnosticresultsprecess\\frmdiagnosticsprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|E:\\Clinic_Management\\clinic_management\\mainform\\diagnosticresultsprecess\\frmdiagnosticsprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\mainform\\diagnosticresultsprecess\\frmdiagnosticsprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66531A7-94B7-45BF-B3F3-43876F3B04B1}|Clinic_Management_BLL\\Clinic_Management_BLL.csproj|e:\\clinic_management\\clinic_management_bll\\service\\diagnosticresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66531A7-94B7-45BF-B3F3-43876F3B04B1}|Clinic_Management_BLL\\Clinic_Management_BLL.csproj|solutionrelative:clinic_management_bll\\service\\diagnosticresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|E:\\Clinic_Management\\clinic_management\\diagnostics\\diagnosticresult\\frmdiagnosticresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\diagnostics\\diagnosticresult\\frmdiagnosticresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB54951-B351-31EC-F40F-9BF6EE3E0282}|Clinic_Management_DAL\\Clinic_Management_DAL.csproj|e:\\clinic_management\\clinic_management_dal\\data\\diagnosticresultdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB54951-B351-31EC-F40F-9BF6EE3E0282}|Clinic_Management_DAL\\Clinic_Management_DAL.csproj|solutionrelative:clinic_management_dal\\data\\diagnosticresultdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66531A7-94B7-45BF-B3F3-43876F3B04B1}|Clinic_Management_BLL\\Clinic_Management_BLL.csproj|e:\\clinic_management\\clinic_management_bll\\service\\diagnostcrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66531A7-94B7-45BF-B3F3-43876F3B04B1}|Clinic_Management_BLL\\Clinic_Management_BLL.csproj|solutionrelative:clinic_management_bll\\service\\diagnostcrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|E:\\Clinic_Management\\clinic_management\\diagnostics\\diagnosticrequest\\frmdiagnosticrequestitemstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\diagnostics\\diagnosticrequest\\frmdiagnosticrequestitemstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|e:\\clinic_management\\clinic_management\\diagnostics\\diagnosticrequest\\frmdiagnosticrequestitemstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\diagnostics\\diagnosticrequest\\frmdiagnosticrequestitemstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66531A7-94B7-45BF-B3F3-43876F3B04B1}|Clinic_Management_BLL\\Clinic_Management_BLL.csproj|e:\\clinic_management\\clinic_management_bll\\service\\diagnosticrequestitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66531A7-94B7-45BF-B3F3-43876F3B04B1}|Clinic_Management_BLL\\Clinic_Management_BLL.csproj|solutionrelative:clinic_management_bll\\service\\diagnosticrequestitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB54951-B351-31EC-F40F-9BF6EE3E0282}|Clinic_Management_DAL\\Clinic_Management_DAL.csproj|e:\\clinic_management\\clinic_management_dal\\data\\diagnosticrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB54951-B351-31EC-F40F-9BF6EE3E0282}|Clinic_Management_DAL\\Clinic_Management_DAL.csproj|solutionrelative:clinic_management_dal\\data\\diagnosticrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|E:\\Clinic_Management\\clinic_management\\diagnostics\\diagnosticrequest\\frmdiagnosticrequestitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\diagnostics\\diagnosticrequest\\frmdiagnosticrequestitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|e:\\clinic_management\\clinic_management\\diagnostics\\diagnosticrequest\\frmdiagnosticrequestitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\diagnostics\\diagnosticrequest\\frmdiagnosticrequestitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|E:\\Clinic_Management\\clinic_management\\diagnostics\\diagnosticrequest\\ucdiagnosticrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\diagnostics\\diagnosticrequest\\ucdiagnosticrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|E:\\Clinic_Management\\clinic_management\\diagnostics\\diagnosticrequest\\ucdiagnosticrequestitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\diagnostics\\diagnosticrequest\\ucdiagnosticrequestitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66531A7-94B7-45BF-B3F3-43876F3B04B1}|Clinic_Management_BLL\\Clinic_Management_BLL.csproj|e:\\clinic_management\\clinic_management_bll\\service\\diagnostictestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66531A7-94B7-45BF-B3F3-43876F3B04B1}|Clinic_Management_BLL\\Clinic_Management_BLL.csproj|solutionrelative:clinic_management_bll\\service\\diagnostictestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|E:\\Clinic_Management\\clinic_management\\diagnostics\\diagnosticresult\\ucdiagnosticresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\diagnostics\\diagnosticresult\\ucdiagnosticresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|e:\\clinic_management\\clinic_management\\appointment\\frmappointmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\appointment\\frmappointmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|E:\\Clinic_Management\\clinic_management\\appointment\\frmappointmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\appointment\\frmappointmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|e:\\clinic_management\\clinic_management\\mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|E:\\Clinic_Management\\clinic_management\\mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|E:\\Clinic_Management\\clinic_management\\mainform\\appointmentprocess\\frmappointmentprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\mainform\\appointmentprocess\\frmappointmentprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|e:\\clinic_management\\clinic_management\\diagnostics\\diagnosticrequest\\frmdiagnosticrequeststable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77982B0A-C950-8C64-3EB1-8A576CE50744}|Clinic_Management\\Clinic_Management.csproj|solutionrelative:clinic_management\\diagnostics\\diagnosticrequest\\frmdiagnosticrequeststable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsDataAccessSettings.cs",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management_DAL\\clsDataAccessSettings.cs",
+              "RelativeDocumentMoniker": "Clinic_Management_DAL\\clsDataAccessSettings.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management_DAL\\clsDataAccessSettings.cs",
+              "RelativeToolTip": "Clinic_Management_DAL\\clsDataAccessSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T03:19:11.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\Login\\frmLogin.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\Login\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Clinic_Management\\Login\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T01:10:54.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmAppointmentTable.cs [Design]",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\Appointment\\frmAppointmentTable.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\Appointment\\frmAppointmentTable.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\Appointment\\frmAppointmentTable.cs [Design]",
+              "RelativeToolTip": "Clinic_Management\\Appointment\\frmAppointmentTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:16:04.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDiagnosticRequestsTable.cs [Design]",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestsTable.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestsTable.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestsTable.cs [Design]",
+              "RelativeToolTip": "Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestsTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:16:29.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDiagnosticResultsTable.cs",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticResult\\frmDiagnosticResultsTable.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\Diagnostics\\DiagnosticResult\\frmDiagnosticResultsTable.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticResult\\frmDiagnosticResultsTable.cs",
+              "RelativeToolTip": "Clinic_Management\\Diagnostics\\DiagnosticResult\\frmDiagnosticResultsTable.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAgwAEBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T21:46:04.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDiagnosticResultsTable.cs [Design]",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticResult\\frmDiagnosticResultsTable.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\Diagnostics\\DiagnosticResult\\frmDiagnosticResultsTable.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticResult\\frmDiagnosticResultsTable.cs [Design]",
+              "RelativeToolTip": "Clinic_Management\\Diagnostics\\DiagnosticResult\\frmDiagnosticResultsTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T21:43:51.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDiagnosticRequestsTable.cs",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestsTable.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestsTable.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestsTable.cs",
+              "RelativeToolTip": "Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestsTable.cs",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAawI0BAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:16:33.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDiagnosticsProcess.cs",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\MainForm\\DiagnosticResultsPrecess\\frmDiagnosticsProcess.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\MainForm\\DiagnosticResultsPrecess\\frmDiagnosticsProcess.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\MainForm\\DiagnosticResultsPrecess\\frmDiagnosticsProcess.cs",
+              "RelativeToolTip": "Clinic_Management\\MainForm\\DiagnosticResultsPrecess\\frmDiagnosticsProcess.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwBwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:47:45.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmDiagnosticsProcess.cs [Design]",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\MainForm\\DiagnosticResultsPrecess\\frmDiagnosticsProcess.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\MainForm\\DiagnosticResultsPrecess\\frmDiagnosticsProcess.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\MainForm\\DiagnosticResultsPrecess\\frmDiagnosticsProcess.cs [Design]",
+              "RelativeToolTip": "Clinic_Management\\MainForm\\DiagnosticResultsPrecess\\frmDiagnosticsProcess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:36:33.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiagnosticResultService.cs",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management_BLL\\Service\\DiagnosticResultService.cs",
+              "RelativeDocumentMoniker": "Clinic_Management_BLL\\Service\\DiagnosticResultService.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management_BLL\\Service\\DiagnosticResultService.cs",
+              "RelativeToolTip": "Clinic_Management_BLL\\Service\\DiagnosticResultService.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAJAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:38:01.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmDiagnosticResult.cs [Design]",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticResult\\frmDiagnosticResult.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\Diagnostics\\DiagnosticResult\\frmDiagnosticResult.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticResult\\frmDiagnosticResult.cs [Design]",
+              "RelativeToolTip": "Clinic_Management\\Diagnostics\\DiagnosticResult\\frmDiagnosticResult.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:37:04.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DiagnosticResultData.cs",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management_DAL\\Data\\DiagnosticResultData.cs",
+              "RelativeDocumentMoniker": "Clinic_Management_DAL\\Data\\DiagnosticResultData.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management_DAL\\Data\\DiagnosticResultData.cs",
+              "RelativeToolTip": "Clinic_Management_DAL\\Data\\DiagnosticResultData.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAYwEwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:18:45.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DiagnostcRequestService.cs",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management_BLL\\Service\\DiagnostcRequestService.cs",
+              "RelativeDocumentMoniker": "Clinic_Management_BLL\\Service\\DiagnostcRequestService.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management_BLL\\Service\\DiagnostcRequestService.cs",
+              "RelativeToolTip": "Clinic_Management_BLL\\Service\\DiagnostcRequestService.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAowJQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:19:49.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmDiagnosticRequestItemsTable.cs [Design]",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestItemsTable.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestItemsTable.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestItemsTable.cs [Design]",
+              "RelativeToolTip": "Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestItemsTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:48:12.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmDiagnosticRequestItemsTable.cs",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestItemsTable.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestItemsTable.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestItemsTable.cs",
+              "RelativeToolTip": "Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestItemsTable.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAiwFwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:55:40.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DiagnosticRequestItemService.cs",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management_BLL\\Service\\DiagnosticRequestItemService.cs",
+              "RelativeDocumentMoniker": "Clinic_Management_BLL\\Service\\DiagnosticRequestItemService.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management_BLL\\Service\\DiagnosticRequestItemService.cs",
+              "RelativeToolTip": "Clinic_Management_BLL\\Service\\DiagnosticRequestItemService.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:19:37.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DiagnosticRequestData.cs",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management_DAL\\Data\\DiagnosticRequestData.cs",
+              "RelativeDocumentMoniker": "Clinic_Management_DAL\\Data\\DiagnosticRequestData.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management_DAL\\Data\\DiagnosticRequestData.cs",
+              "RelativeToolTip": "Clinic_Management_DAL\\Data\\DiagnosticRequestData.cs",
+              "ViewState": "AgIAADABAAAAAAAAAADwv0IBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:18:56.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmDiagnosticRequestItem.cs [Design]",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestItem.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestItem.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestItem.cs [Design]",
+              "RelativeToolTip": "Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:47:19.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmDiagnosticRequestItem.cs",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestItem.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestItem.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestItem.cs",
+              "RelativeToolTip": "Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:54:06.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ucDiagnosticRequest.cs [Design]",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticRequest\\ucDiagnosticRequest.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\Diagnostics\\DiagnosticRequest\\ucDiagnosticRequest.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticRequest\\ucDiagnosticRequest.cs [Design]",
+              "RelativeToolTip": "Clinic_Management\\Diagnostics\\DiagnosticRequest\\ucDiagnosticRequest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:47:35.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ucDiagnosticRequestItem.cs [Design]",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticRequest\\ucDiagnosticRequestItem.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\Diagnostics\\DiagnosticRequest\\ucDiagnosticRequestItem.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticRequest\\ucDiagnosticRequestItem.cs [Design]",
+              "RelativeToolTip": "Clinic_Management\\Diagnostics\\DiagnosticRequest\\ucDiagnosticRequestItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:47:33.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DiagnosticTestService.cs",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management_BLL\\Service\\DiagnosticTestService.cs",
+              "RelativeDocumentMoniker": "Clinic_Management_BLL\\Service\\DiagnosticTestService.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management_BLL\\Service\\DiagnosticTestService.cs",
+              "RelativeToolTip": "Clinic_Management_BLL\\Service\\DiagnosticTestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:38:00.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ucDiagnosticResult.cs [Design]",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticResult\\ucDiagnosticResult.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\Diagnostics\\DiagnosticResult\\ucDiagnosticResult.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticResult\\ucDiagnosticResult.cs [Design]",
+              "RelativeToolTip": "Clinic_Management\\Diagnostics\\DiagnosticResult\\ucDiagnosticResult.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:37:08.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmAppointmentTable.cs",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\Appointment\\frmAppointmentTable.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\Appointment\\frmAppointmentTable.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\Appointment\\frmAppointmentTable.cs",
+              "RelativeToolTip": "Clinic_Management\\Appointment\\frmAppointmentTable.cs",
+              "ViewState": "AgIAAHIBAAAAAAAAAAAYwIABAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:16:18.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\MainForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\MainForm\\MainForm.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\MainForm\\MainForm.cs",
+              "RelativeToolTip": "Clinic_Management\\MainForm\\MainForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAEwDIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:53:55.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\MainForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\MainForm\\MainForm.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\MainForm\\MainForm.cs [Design]",
+              "RelativeToolTip": "Clinic_Management\\MainForm\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:52:36.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmAppointmentProcess.cs [Design]",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\MainForm\\AppointmentProcess\\frmAppointmentProcess.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\MainForm\\AppointmentProcess\\frmAppointmentProcess.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\MainForm\\AppointmentProcess\\frmAppointmentProcess.cs [Design]",
+              "RelativeToolTip": "Clinic_Management\\MainForm\\AppointmentProcess\\frmAppointmentProcess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:37:04.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmDiagnosticRequestsTable.Designer.cs",
+              "DocumentMoniker": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestsTable.Designer.cs",
+              "RelativeDocumentMoniker": "Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestsTable.Designer.cs",
+              "ToolTip": "E:\\Clinic_Management\\Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestsTable.Designer.cs",
+              "RelativeToolTip": "Clinic_Management\\Diagnostics\\DiagnosticRequest\\frmDiagnosticRequestsTable.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAEwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:28:03.744Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

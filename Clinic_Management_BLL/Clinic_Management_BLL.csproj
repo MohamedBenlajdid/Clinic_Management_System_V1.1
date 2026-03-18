@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AuditWritter\Login\**" />
+    <EmbeddedResource Remove="AuditWritter\Login\**" />
+    <None Remove="AuditWritter\Login\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Service\AppointmentData.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="16.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Clinic_Management_DAL\Clinic_Management_DAL.csproj" />
+    <ProjectReference Include="..\Clinic_Management_Entities\Clinic_Management_Entities.csproj" />
+  </ItemGroup>
+
+</Project>
